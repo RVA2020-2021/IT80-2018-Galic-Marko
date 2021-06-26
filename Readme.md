@@ -1,1 +1,1 @@
-https://priceless-newton-61764b.netlify.app/home
+https://priceless-newton-61764b.netlify.app
